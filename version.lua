@@ -1,0 +1,3 @@
+{
+"JChatCommands": "V1"
+}
